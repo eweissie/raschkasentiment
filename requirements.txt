@@ -1,5 +1,4 @@
 flask
 wtforms
-sqlite3
 numpy
 sklearn
