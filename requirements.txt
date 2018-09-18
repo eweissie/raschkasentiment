@@ -1,4 +1,3 @@
-distutils
 flask
 wtforms
 pickle
